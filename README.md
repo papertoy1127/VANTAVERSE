@@ -14,6 +14,9 @@ VANTAVERSE는 기본적으로 서브컬처를 기반으로 하고 있지만 서�
 ## 타임라인
 **[VANTAVERSE/타임라인](TIMELINE.md)**
 
+## 세계선
+**[VANTAVERSE/세계선](WORLDLINE.md)**
+
 ## 등장인물
 **[VANTAVERSE/등장인물](CHAR.md)**
 
