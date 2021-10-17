@@ -1,6 +1,6 @@
 # VANTAVERSE
 ## 개요
-VANTAVERSE는 Ketose가 전개하고 있는 세계관의 명칭이며 Vantablack과 Universe의 합성어로 세계관을 완전한 무에서부터 확장한다는 의미를 담고 있다.
+VANTAVERSE는 VANTA GAMES가 전개하고 있는 세계관의 명칭이며 Vantablack과 Universe의 합성어로 세계관을 완전한 무에서부터 확장한다는 의미를 담고 있다.
 
 ## 상세
 VANTAVERSE는 기본적으로 서브컬처를 기반으로 하고 있지만 서브컬처 이외에도 다양한 매체에서 모티브를 따오고 있으며 최종적으로는 장르를 초월한 세계관으로 진행될 예정이다.
